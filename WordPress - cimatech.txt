@@ -1,4 +1,0 @@
-cimatech.wordpress.com
-usuario: cimatech
-senha: nunesmottatech
-e-mail: felz32.td@gmail.com
